@@ -1,0 +1,22 @@
+/*Layouts css goes here*/
+
+.heading-title {
+    display: none;
+}
+
+#author-bio {
+    display: none;
+}
+
+.attachment-full {
+    width: 100% !important;
+}
+
+h1 {
+    font-size: 48px;
+    line-height: 48px;
+}
+
+.doctor-page-title {
+    font-size: 30px !important;
+}
